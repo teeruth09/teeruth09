@@ -1,4 +1,4 @@
-### Hi guys👋,I'm Ruth⚡😄
+### Hi guys👋,I'm Ruth😄
 
 <!--
 **teeruth09/teeruth09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
