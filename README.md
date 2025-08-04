@@ -9,7 +9,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" style="width:50px;height:50px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" style="width:50px;height:50px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="reactjs" style="width:50px;height:50px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" style="width:50px;height:50px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" style="width:50px;height:50px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs" style="width:50px;height:50px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="expressjs" style="width:50px;height:50px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="mongodb" style="width:50px;height:50px;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgreSQL" style="width:50px;height:50px;">
