@@ -1,7 +1,10 @@
-# Hi guys👋,I'm Ruth😄,Welcome to my Github
-<h3>My name is Teeruth Ieowsakulrat. Most people call me Ruth. I am currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang (KMITL).</h3>
+# Hi guys👋, Welcome to my Github 👨🏻‍💻
+<h3>My name is Teeruth Ieowsakulrat. Most people call me Ruth.</h3>
 <li>
   <span>🎯 I have a strong interest in web application development, with a focus on full-stack development, DevOps, and software engineering.</span>
+</li>
+<li>
+  <span>🎓 I am currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang (KMITL).</span>
 </li>
 <li>
   <span>✉️ Email:teeruth2546@gmail.com</span>
