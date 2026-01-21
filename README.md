@@ -1,5 +1,13 @@
-# Hi guys👋,I'm Ruth😄
-<h3>I'm studying in Computer Engineering at KMITL</h3>
+# Hi guys👋,I'm Ruth😄,Welcome to my Github
+<h3>My name is Teeruth Ieowsakulrat. Most people call me Ruth. I am currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang (KMITL).</h3>
+<li>
+  <span>🎯 I have a strong interest in web application development, with a focus on full-stack development, DevOps, and software engineering.</span>
+</li>
+<li>
+  <span>🌐 My Website:</span>
+  <a href="https://teeruth09-website-brown-ten.vercel.app/">teeruth09-website-brown-ten.vercel.app</a>
+</li>
+
 <h2>Skills and Tools</h3>
 <div style="display:flex">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" style="width:50px;height:50px;">
