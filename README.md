@@ -4,9 +4,13 @@
   <span>🎯 I have a strong interest in web application development, with a focus on full-stack development, DevOps, and software engineering.</span>
 </li>
 <li>
+  <span>✉️ Email:teeruth2546@gmail.com</span>
+</li>
+<li>
   <span>🌐 My Website:</span>
   <a href="https://teeruth09-website-brown-ten.vercel.app/">teeruth09-website-brown-ten.vercel.app</a>
 </li>
+
 
 <h2>Skills and Tools</h3>
 <div style="display:flex">
