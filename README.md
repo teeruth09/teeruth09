@@ -4,7 +4,7 @@
   <span>🎯 I have a strong interest in web application development, with a focus on full-stack development, DevOps, and software engineering.</span>
 </li>
 <li>
-  <span>🎓 I am currently studying Computer Engineering at King Mongkut's Institute of Technology Ladkrabang (KMITL).</span>
+  <span>🎓 I graduated in Computer Engineering from King Mongkut's Institute of Technology Ladkrabang (KMITL).</span>
 </li>
 <li>
   <span>✉️ Email:teeruth2546@gmail.com</span>
